@@ -1,6 +1,7 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This its a Youtube clone Sample Project where are implemented some of the features from React.
+
 
 ### Getting Started
 
